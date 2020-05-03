@@ -1,4 +1,4 @@
-# Artwork
+# NSeed Artwork
 
 Icons, logos etc. for NSeed.
 
